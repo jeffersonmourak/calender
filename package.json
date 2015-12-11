@@ -16,5 +16,10 @@
     "calender"
   ],
   "author": "jeffersonmourak <jefinho.moura14@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jslint": "^0.2.2",
+    "gulp-uglify": "^1.5.1"
+  }
 }
