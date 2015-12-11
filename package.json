@@ -1,0 +1,20 @@
+{
+  "name": "calender",
+  "version": "0.0.1",
+  "description": "A calendar library for front-ender",
+  "main": "calender.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "calendar",
+    "front-end",
+    "calender"
+  ],
+  "author": "jeffersonmourak <jefinho.moura14@gmail.com>",
+  "license": "MIT"
+}
