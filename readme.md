@@ -1,10 +1,10 @@
 #calender.js
 Calender is a calendar tool, to create and manage calendars
 
-#Install
+##Install
 To Install Calender, you need download the source, and use the file, calender.js inside ```dist/```
 
-#Usage
+##Usage
 To use Calender, you need put those elements in your code
 ```
 <div id="calender_wrap">
@@ -24,7 +24,7 @@ before, you need import the script
 ```<script src="dist/calender.js"></script>```
 and the calender will create the calendar on your page
 
-#Functions and events
+##Functions and events
 if you need change the month, of calender
 you can use ```calender.changeDate( MONTH_HERE );```
 
@@ -44,5 +44,5 @@ document.addEventListener('calender_day_click', function(e) {
 }
 ```
 
-#Licence
+##Licence
 MIT
